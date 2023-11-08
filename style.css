@@ -1,4 +1,5 @@
 body{
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-items: center;
@@ -168,4 +169,8 @@ th:hover button{
     visibility: visible;
 }
 
+#footer{
+    position :absolute;
+    bottom: 10px;
+}
   
